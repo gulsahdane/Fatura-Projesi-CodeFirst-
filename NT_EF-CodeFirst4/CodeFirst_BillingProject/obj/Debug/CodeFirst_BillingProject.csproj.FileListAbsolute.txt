@@ -1,0 +1,24 @@
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\CodeFirst_BillingProject.exe.config
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\CodeFirst_BillingProject.exe
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\CodeFirst_BillingProject.pdb
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\EntityFramework.dll
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\EntityFramework.xml
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.csprojAssemblyReference.cache
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.Form1.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.FormCity.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.FormCounty.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.FormCustomer.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.FormProduct.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.FormUnit.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.Properties.Resources.resources
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.csproj.GenerateResource.cache
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.csproj.CoreCompileInputs.cache
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.csproj.CopyComplete
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.exe
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.pdb
+C:\Users\Section2\source\repos\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.Migrations.OriginalDB.resources
+C:\Users\gülşah\Desktop\Githuba yüklenecek\EF codefirstyaklaşımı\NT_EF-CodeFirst4\CodeFirst_BillingProject\bin\Debug\CodeFirst_BillingProject.exe.config
+C:\Users\gülşah\Desktop\Githuba yüklenecek\EF codefirstyaklaşımı\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.exe
+C:\Users\gülşah\Desktop\Githuba yüklenecek\EF codefirstyaklaşımı\NT_EF-CodeFirst4\CodeFirst_BillingProject\obj\Debug\CodeFirst_BillingProject.pdb
